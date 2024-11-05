@@ -1,0 +1,8 @@
+We are given garden with attributes id,name, size
+A garden can have multiple plants
+A plant can only belong to one garden with attributes id,name,type, plantDate
+
+The application is to perfom all the CRUD operations.
+We are required to return a list of all plants sorted by name or plantDate
+We are to use a commandline Interface
+The output should be a sorted list on any of the above specified criteria
